@@ -80,10 +80,14 @@ Quiz-App/
 ## 🎨 Screenshots  
 
 ### 🧩 Question Screen  
-![Question Screen](https://via.placeholder.com/800x500.png?text=Quiz+Question+Screen)  
+
+![q1](https://github.com/user-attachments/assets/cef62690-0f01-4c08-9287-b52060eea84f)
+![q2](https://github.com/user-attachments/assets/7a96f19c-144c-4b69-a972-99cb441d173b)
+![q3](https://github.com/user-attachments/assets/cb5fb476-4d47-4bca-bad6-dd289f7515ed)
 
 ### 🏆 Score Screen  
-![Score Screen](https://via.placeholder.com/800x500.png?text=Quiz+Score+Screen)  
+![score](https://github.com/user-attachments/assets/11fa53df-3f37-49f3-9b27-3b89d4a36d3f)
+
 
 ---
 
